@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="0.381246">
+<testcase classname="Free CRM app test" name="free CRM create mail test" time="0.379878">
+<system-out><![CDATA[Given user is on mail page..................................................passed
+When user fills the mail form...............................................passed
+Then mail is created........................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Free CRM app test" name="free CRM create mail test 2" time="0.001368">
+<system-out><![CDATA[Given user is on mail page..................................................passed
+When user fills the mail form...............................................passed
+Then mail is created........................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
